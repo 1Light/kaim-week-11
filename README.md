@@ -41,8 +41,8 @@ Each dataset includes the following columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gmf-investments.git
-   cd gmf-investments
+   git clone https://github.com/1Light/kaim-week-11.git
+   cd kaim-week-11
    ```
 
 2. Install the required dependencies:
